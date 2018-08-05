@@ -37,7 +37,3 @@ Assignment Sheet Three (coming)
 ### Supplemental Resources
 
 [Here's the website accompanying our textbook](https://www.craftofscientificwriting.com/)
-
-**To view the source code of this page in Markdown, visit: **
-
-**Last revision: 08.01.2018**
