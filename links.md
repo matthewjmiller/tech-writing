@@ -2,7 +2,7 @@
 
 ### Unit One
 
-[Kieran Healy, *The Plain Person's Guide to Plain Text Social Science](http://plain-text.co/)
+[Kieran Healy, *The Plain Person's Guide to Plain Text Social Science*](http://plain-text.co/)
 
 [Dennis Tenan and Grant Wythoff, “Sustainable Authorship in Plain Text Using Pandoc and Markdown”](https://programminghistorian.org/en/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown)
 
