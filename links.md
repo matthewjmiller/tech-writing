@@ -1,24 +1,6 @@
----
-layout: page
-title: Technical Writing
-permalink: /tech-writing/
----
+## Required Readings
 
-## Welcome to class
-
-This page serves as home base for ENG 333 at the College of the Ozarks. Mainly it will contain a list of links. Any readings not drawn from our textbook from the class will appear here, as will links to course documents.
-
-### Course Documents
-
-Syllabus (coming)
-
-Assignment Sheet One (coming)
-
-Assignment Sheet Two (coming)
-
-Assignment Sheet Three (coming)
-
-### Required Readings
+### Unit One
 
 [Kieran Healy, *The Plain Person's Guide to Plain Text Social Science](http://plain-text.co/)
 
@@ -26,9 +8,15 @@ Assignment Sheet Three (coming)
 
 ["Student Guidelines for Peer Review"](https://serc.carleton.edu/sp/library/peerreview/tips.html)
 
+["A Rule of Life for Redemptive Entrepreneurs"](https://rule.praxislabs.org/)
+
+### Unit Two
+
 [Amanda Visconti, “Building a Static Website with Jekyll and GitHub Pages”](https://programminghistorian.org/en/lessons/building-static-sites-with-jekyll-github-pages)
 
 ["Paramedic Method"](https://owl.purdue.edu/owl/general_writing/academic_writing/paramedic_method.html)
+
+### Unit Three
 
 [*Butterick's Practical Typography*](https://practicaltypography.com)
 
