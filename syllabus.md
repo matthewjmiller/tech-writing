@@ -34,7 +34,7 @@ Students in this course will have the opportunity to develop their skills in com
 
 The work used to assess your performance in this class is as follows:
 
-Instructions: 200 points    
+Documentation: 200 points    
 Technical blog: 200 points    
 White paper: 400 points    
 Participation: 200 points
@@ -142,13 +142,13 @@ WEEK FOUR
 
 Tuesday, 9.18: Alley, ch. 14.
 
-Thursday, 9.20: Sample document pack 1.
+Thursday, 9.20: Sample document pack 1. **Documentation topic commitment.**
 
 WEEK FIVE
 
-Tuesday, 9.25: [“Student Guidelines for Peer Review.”](https://serc.carleton.edu/sp/library/peerreview/tips.html) **Instructions draft due.**
+Tuesday, 9.25: [“Student Guidelines for Peer Review.”](https://serc.carleton.edu/sp/library/peerreview/tips.html) **Documentation draft due.**
 
-Tuesday, 9.27: [“A Rule of Life for Redemptive Entrepreneurs.”](https://rule.praxislabs.org/) **Instructions due.**
+Tuesday, 9.27: [“A Rule of Life for Redemptive Entrepreneurs.”](https://rule.praxislabs.org/) **Documentation due.**
 
 WEEK SIX
 
@@ -172,11 +172,11 @@ WEEK NINE
 
 Tuesday, 10.23: Alley, ch. 13.
 
-Thursday, 10.25: Sample website pack.
+Thursday, 10.25: Sample website pack. **Website topic commitment.**
 
 WEEK TEN
 
-Tuesday, 10.30: Website draft due.
+Tuesday, 10.30: **Website draft due.**
 
 Thursday, 11.1: [“Paramedic Method.”](https://owl.purdue.edu/owl/general_writing/academic_writing/paramedic_method.html) **Website due.**
 
@@ -200,7 +200,7 @@ WEEK FOURTEEN
 
 Tuesday, 11.27: [Chanpory, “Clean Up Your Mess.”](http://www.visualmess.com/)
 
-Thursday, 11.29: Alley, ch. 15.
+Thursday, 11.29: Alley, ch. 15. **White paper topic commitment.**
 
 WEEK FIFTEEN
 
