@@ -21,7 +21,7 @@ Effective communication about technical subjects is vital to professionals in an
 
 Students in this course will have the opportunity to develop their skills in communication and persuasion about technical topics, culminating in a major project of technical communication.
 
-##Course objectives
+## Course objectives
 
 **Upon completing this course:**
 
