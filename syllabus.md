@@ -5,8 +5,8 @@ meeting: T and Th, 11:00 AM-12:20 PM, Youngman Ag 146
 fee: none
 prerequisites: ENG 233
 textbook: Michael Alley, *The Craft of Scientific Writing*, 3rd edition, Springer.
-instructor: Dr. Matt Miller, mmiller@cofo.edu, 417.690.2481
-office hours: Jones F3, M and W, 8-11 and 12-5 or by appointment
+instructor: Dr. Matt Miller, mmiller@cofo.edu, 417.690.2481, 314.358.1603 (text)
+office hours: Jones F5. M 9-11, W 8-11, T-Th 4-5, and by appointment
 ---
 
 # Technical Writing
@@ -21,7 +21,7 @@ Effective communication about technical subjects is vital to professionals in an
 
 Students in this course will have the opportunity to develop their skills in communication and persuasion about technical topics, culminating in a major project of technical communication.
 
-## Course objectives
+##Course objectives
 
 **Upon completing this course:**
 
@@ -34,7 +34,7 @@ Students in this course will have the opportunity to develop their skills in com
 
 The work used to assess your performance in this class is as follows:
 
-Documentation: 200 points    
+Instructions: 200 points    
 Technical blog: 200 points    
 White paper: 400 points    
 Participation: 200 points
@@ -142,13 +142,13 @@ WEEK FOUR
 
 Tuesday, 9.18: Alley, ch. 14.
 
-Thursday, 9.20: Sample document pack 1. **Documentation topic commitment.**
+Thursday, 9.20: Sample document pack 1.
 
 WEEK FIVE
 
-Tuesday, 9.25: [“Student Guidelines for Peer Review.”](https://serc.carleton.edu/sp/library/peerreview/tips.html) **Documentation draft due.**
+Tuesday, 9.25: [“Student Guidelines for Peer Review.”](https://serc.carleton.edu/sp/library/peerreview/tips.html) **Instructions draft due.**
 
-Tuesday, 9.27: [“A Rule of Life for Redemptive Entrepreneurs.”](https://rule.praxislabs.org/) **Documentation due.**
+Tuesday, 9.27: [“A Rule of Life for Redemptive Entrepreneurs.”](https://rule.praxislabs.org/) **Instructions due.**
 
 WEEK SIX
 
@@ -172,11 +172,11 @@ WEEK NINE
 
 Tuesday, 10.23: Alley, ch. 13.
 
-Thursday, 10.25: Sample website pack. **Website topic commitment.**
+Thursday, 10.25: Sample website pack.
 
 WEEK TEN
 
-Tuesday, 10.30: **Website draft due.**
+Tuesday, 10.30: Website draft due.
 
 Thursday, 11.1: [“Paramedic Method.”](https://owl.purdue.edu/owl/general_writing/academic_writing/paramedic_method.html) **Website due.**
 
@@ -200,7 +200,7 @@ WEEK FOURTEEN
 
 Tuesday, 11.27: [Chanpory, “Clean Up Your Mess.”](http://www.visualmess.com/)
 
-Thursday, 11.29: Alley, ch. 15. **White paper topic commitment.**
+Thursday, 11.29: Alley, ch. 15.
 
 WEEK FIFTEEN
 
