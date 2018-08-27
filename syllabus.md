@@ -212,4 +212,6 @@ WEEK SIXTEEN
 
 Tuesday, 12.11: Peer review; white paper draft due.
 
-Thursday, 12.13: Workshop. **White paper due.**
+Thursday, 12.13: Workshop. 
+
+**White paper due: TBD.**
