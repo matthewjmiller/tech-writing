@@ -32,8 +32,8 @@
 
 [Here's the website accompanying our textbook](https://www.craftofscientificwriting.com/)
 
+[CriticMarkup](http://criticmarkup.com/). A lightweight means of giving feedback on Markdown documents. 
+
 ## For Use in Class
 
 [For September 4](https://link.springer.com/content/pdf/10.1007%2Fs13593-013-0181-6.pdf)
-
-[CriticMarkup](http://criticmarkup.com/). A lightweight means of giving feedback on Markdown documents. 
