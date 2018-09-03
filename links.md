@@ -31,3 +31,5 @@
 ### Supplemental Resources
 
 [Here's the website accompanying our textbook](https://www.craftofscientificwriting.com/)
+
+[CriticMarkup](http://criticmarkup.com/). A lightweight means of giving feedback on Markdown documents. 
