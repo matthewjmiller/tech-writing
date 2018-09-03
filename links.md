@@ -28,8 +28,12 @@
 
 **Sample Document Pack 2**: [Bunge white paper](https://drive.google.com/file/d/14ijQdufXEwb5N4Rj3iOwS6FPi0_sWgMa/view?usp=sharing) and [Delavau white paper](https://drive.google.com/file/d/1ZzovefeMN84ZPaRpCCplcdC_L68_myWz/view?usp=sharing). 
 
-### Supplemental Resources
+## Supplemental Resources
 
 [Here's the website accompanying our textbook](https://www.craftofscientificwriting.com/)
+
+## For Use in Class
+
+[For September 4](https://link.springer.com/content/pdf/10.1007%2Fs13593-013-0181-6.pdf)
 
 [CriticMarkup](http://criticmarkup.com/). A lightweight means of giving feedback on Markdown documents. 
