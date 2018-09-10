@@ -22,7 +22,7 @@ WEEK FOUR
 
 Tuesday, 9.18: Alley, ch. 14.
 
-Thursday, 9.20: Sample document pack 1.
+Thursday, 9.20: Sample document pack 1. **Topic commitment for Assignment One.**
 
 WEEK FIVE
 
