@@ -36,6 +36,8 @@
 
 [Markdown Tables](https://www.tablesgenerator.com/markdown_tables)
 
+[More information on tables in GitHub Flavored Markdown](https://help.github.com/articles/organizing-information-with-tables/)
+
 ## For Use in Class
 
 [For September 4](https://link.springer.com/content/pdf/10.1007%2Fs13593-013-0181-6.pdf)
