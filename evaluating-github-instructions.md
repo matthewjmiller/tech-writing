@@ -1,17 +1,15 @@
 Create a branch of our course repo, type your comments in this file, and merge the changes back for me to approve.
 
-# Audience
+## Who are they?
+1. We are they, we are the audience. Typical, handsome, college students trying to learn how to use GitHub.
+2. Authors, publishers, editors, and writers are also the target audience. 
+3. Government officials. 
 
-## Who Are They?
+## What do they know?
+1. About GitHub? Nothing, we are slow learners determined to master our GitHub. 
+2. They might have some prior knowledge, or might need a refresher on how GitHub works. They might also have no clue how it works and have a willingness to learn. 
+3. Same as the people in number 1 and 2. 
 
-We are the audience as students and users of Github. Also, Government Agencies at the national, local, state use Github. Many agencies in Australia, Brazil, and Canada use this site.
-
-## What Do They Know?
-
-We know basically nothing. We know our username. Agencies probably know basics.
-
-## How Will they Read?
-
-Looking for a very simple basic format. They will be needing a basic overview of how to use the program.
-
-
+## How will they read?
+1. We will read with an open mind with an acceptance to new ideas and technology.
+2. They will read with a prior knowledge and might understand a little more of the GitHub terminology. 
