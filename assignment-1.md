@@ -1,9 +1,3 @@
-----
-course: ENG 333-01
-type: assignment sheet
-title: Assignment One: Instructions
-----
-
 # Assignment One: Documentation
 
 In this project, you will write a set of instructions for a technical process or field of knowledge, documenting each step so that your audience can successfully follow along. Assuming that your reader has a good base of general knowledge but not specific expertise in your field, you must document the task so that the reader can (if possessing the proper equipment) perform the task just as you would. Your documentation should be well-organized, clear, and comprehensive. Ideally, it should also display a little humor or personality to hold the attention of your audience. This assignment stresses *effective organization and translation of technical information*; you should come away from the project with a better grasp on these skills.
