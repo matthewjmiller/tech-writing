@@ -40,7 +40,7 @@ WEEK SEVEN
 
 Tuesday, 10.9: Sample website pack.  
 
-Thursday, 10.11: Wendell Berry, "Tilling Word and Land." (PDF in our repo.) **Website topic proposal due.**
+Thursday, 10.11: Wendell Berry, "Tilling Word and Land." (PDF in our repo.) **Topic commitment for website.**
 
 WEEK EIGHT
 
