@@ -13,6 +13,8 @@ office hours: Jones F5. M 9-11, W 8-11, T-Th 4-5, and by appointment
 
 ## Course description
 
+![CofO logo](https://github.com/matthewjmiller/tech-writing/blob/master/Collegeofozarks-seal.png)
+
 The word “technical” derives from the Greek term *technē*, meaning a craft or skill. Historically, this term referred to specialized disciplines like carpentry or cooking, as well as learned skills such as rhetoric. So *technical* writing is writing concerned with such specialized topics: agriculture, information technology, food science. Writing itself is also a *techne*, a skill with knowledge and habits that can be mastered. The technical writer must mediate between demands of the discipline and of writing itself, practicing two different skills at once.
 
 This course focuses on the challenges created by this dual role. Technical disciplines have their own language and conventions which are not always conducive to clear writing, yet the technical writer must still demonstrate knowledge of the discipline while also communicating in a clear, persuasive, and attractive manner.

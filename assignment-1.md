@@ -1,12 +1,6 @@
----
-course: ENG 333-01
-type: assignment sheet
-title: Assignment One: Instructions
----
-
 # Assignment One: Documentation
 
-In this project, you will write a set of instructions for a technical process or field of knowledge, documenting each step so that your audience can successfully follow along. Assuming that your reader has a good base of general knowledge but not specific expertise in your field, you must document the task so that the reader can (if possessing the proper equipment) perform the task just as you would. Your documentation should be well-organized, clear, and comprehensive. Ideally, it should also display a little humor or personality to hold the attention of your audience.
+In this project, you will write a set of instructions for a technical process or field of knowledge, documenting each step so that your audience can successfully follow along. Assuming that your reader has a good base of general knowledge but not specific expertise in your field, you must document the task so that the reader can (if possessing the proper equipment) perform the task just as you would. Your documentation should be well-organized, clear, and comprehensive. Ideally, it should also display a little humor or personality to hold the attention of your audience. This assignment stresses *effective organization and translation of technical information*; you should come away from the project with a better grasp on these skills.
 
 You will need to choose a process or domain of knowledge of sufficient complexity that it can sustain documentation of 1,000 words or so. (I am not fussed about specific word counts, and if your project comes in at 950 you won't be penalized for the word count. However, 1,000 words or more should be your target. The point is not to meet an arbitrary word count but to produce a sufficiently thorough document.) I recommend (but do not require) that you draw the material from your major coursework or your workstation on campus, so that you can work efficiently and draw on other material you are learning. 
 
@@ -20,7 +14,7 @@ You may define the audience for this project as you see fit, whether you address
 
 ## Layout and Submission
 
-Compose the document in [Markdown](https://daringfireball.net/projects/markdown/syntax). You may include images or not, as you feel necessary. Create a GitHub account and a new repository, and upload all submissions to that repository, then email me the link when you are ready to submit. For final submission, please also bring a hard copy of your final document to class. **You do not need to do any layout work on the hard copy**; bring me the raw Markdown. (If your text editor does not have a "print" button to print the raw code---and mine doesn't---you may need to use a workaround [like this](https://github.com/svenax/SublimePrint) or just copy and paste the code into a blank Word document. I'm happy to help anybody with this.)
+Compose the document in [Markdown](https://daringfireball.net/projects/markdown/syntax). You may include images or not, as you feel necessary. All documents for this assignment (topic, draft, and final submission) will live in your personal GitHub repo for this class. **If you have multiple repos (for instance, so you can experiment in one), please make sure to title your submission repo accordingly so I know which one to look at, and include your name somewhere so I can tell who you are.** As long as you are following the repo for our class, there is no need for any additional submission.
 
 Cite all sources in a consistent style, using whatever style sheet you feel is appropriate. You may also choose to include a list of sources for your reader to reference that you do not necessarily cite in the document.
 
