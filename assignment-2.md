@@ -14,7 +14,9 @@ Other posts could translate new research in your field, respond to current news 
 
 Use media and design as appropriate for your site. Don't stick with the default formatting if you employ Wordpress: choose an appropriate theme. (If you use GitHub Pages, this is more complicated, and we can discuss that.) Add images and other media, always giving proper attribution through links.
 
-To fulfill the assignment, your blog should have **a minimum of four posts,** an About page that tells your readers a little about you (this can be as anonymized as you like), and an attractive and easy-to-use look. Effective blog posts are usually in the range of 300-800 words apiece, though longer format pieces can be very effective, and if you decide to produce one of these we can discuss lowering the number of posts you submit. 
+Your research needs will vary depending on the type of blog you write. You may do conventional academic research. You may also need to gather online sources. For monitoring those, I recommend an RSS reader such as [Inoreader](https://www.inoreader.com/) or [Feedly](https://feedly.com/i/pro/introduction). Finding blogs can be tricky, but I recommend using social media or search engines. I will also make available a list of food and farming blogs. 
+
+To fulfill the assignment, your blog should have **a minimum of four posts,** an About page that tells your readers a little about you (this can be as anonymized as you like), and an attractive and easy-to-use look. Effective blog posts are usually in the range of 300-800 words apiece, though longer format pieces can be very effective, and if you decide to produce one of these we can discuss lowering the number of posts you submit. On the other hand, if you have some posts that are shorter (which can be totally legitimate in certain styles of blogging), plan to go beyond the minimum number of posts.
 
 ## Layout and Submission
 
