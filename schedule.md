@@ -34,7 +34,7 @@ WEEK SIX
 
 Tuesday, 10.2: [Healy, ch. 2.](http://plain-text.co/keep-a-record.html). Review Assignment Two.
 
-Thursday, 10.4: ["Why Blog?"](https://blog.hubspot.com/marketing/the-benefits-of-business-blogging-ht) and ["How to Start a Science Blog"](https://blog.hubspot.com/marketing/the-benefits-of-business-blogging-ht).
+Thursday, 10.4: ["Why Blog?"](https://blog.hubspot.com/marketing/the-benefits-of-business-blogging-ht) and ["How to Start a Science Blog."](https://blog.hubspot.com/marketing/the-benefits-of-business-blogging-ht)
 
 WEEK SEVEN
 
