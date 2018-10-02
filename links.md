@@ -16,7 +16,7 @@
 
 ["Why Blog?"](https://blog.hubspot.com/marketing/the-benefits-of-business-blogging-ht) 
 
-["How to Start a Science Blog"](https://blog.hubspot.com/marketing/the-benefits-of-business-blogging-ht)
+["How to Start a Science Blog"](https://www.theguardian.com/science/2014/apr/17/science-blog-wellcome-trust-writing-prize)
 
 **Sample Website Pack** (no need to read every post; poke around the site and get a sense of the author's persona and topics, and read a post or two): [Craig Canapari, MD](https://drcraigcanapari.com/), [Food Politics](https://www.foodpolitics.com/), [Food and Farm Discussion Lab](http://fafdl.org/).
 
