@@ -46,6 +46,8 @@
 
 [Markdown in Wordpress](https://en.support.wordpress.com/markdown/)
 
+[YouTube GitHub Pages Guide](https://youtu.be/BA_c3bGQXlQ)
+
 ## For Use in Class
 
 [For September 4](https://link.springer.com/content/pdf/10.1007%2Fs13593-013-0181-6.pdf)
