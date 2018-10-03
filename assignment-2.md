@@ -1,6 +1,6 @@
-# Assignment Two: Science Blog
+# Assignment Two: Technical Blog
 
-In this assignment, you will configure and set up a science or industry blog focused on your area of interest. The site will educate readers on the field and help them understand how it affects their ordinary lives. It may be purely informational/educational, or it may have a component of serving as *content marketing* for a business or professional. By writing on a variety of topics relating to your field, you will gain further experience translating your technical expertise into accessible, helpful documents. You will also continue to gain familiarity with using modern web tools to promote and publish your work.
+In this assignment, you will configure and set up a science, technical, or industry blog focused on your area of interest. The site will educate readers on the field and help them understand how it affects their ordinary lives. It may be purely informational/educational, or it may have a component of serving as *content marketing* for a business or professional. By writing on a variety of topics relating to your field, you will gain further experience translating your technical expertise into accessible, helpful documents. You will also continue to gain familiarity with using modern web tools to promote and publish your work.
 
 ## Specifications
 
