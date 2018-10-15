@@ -58,7 +58,7 @@ WEEK TEN
 
 Tuesday, 10.30: Peer review. **Full website draft due.**
 
-Thursday, 11.1: [“Paramedic Method.”](https://owl.purdue.edu/owl/general_writing/academic_writing/paramedic_method.html). **Website due.**
+Thursday, 11.1: [“Paramedic Method”](https://owl.purdue.edu/owl/general_writing/academic_writing/paramedic_method.html). **Website due.**
 
 WEEK ELEVEN
 
