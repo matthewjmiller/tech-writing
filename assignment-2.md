@@ -22,7 +22,7 @@ To fulfill the assignment, your blog should have **a minimum of four posts,** an
 
 Compose all materials in Markdown, as with our first assignment, and submit them to a repo on GitHub for in-class work. **Please create a new repo for this project and title it 01-My-Blog so I can find it more easily than I did your first projects.**
 
-You will also produce a formatted blog on your platform of choice. For peer review and final submission, you can simply email that link to your peer and/or me.
+You will also produce a formatted blog on your platform of choice. For peer review and final submission, you can simply add that link to the file in this repo named "class-blog-links.md"
 
 ## Deadlines
 
