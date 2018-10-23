@@ -14,9 +14,13 @@
 
 ### Unit Two
 
-[Amanda Visconti, “Building a Static Website with Jekyll and GitHub Pages”](https://programminghistorian.org/en/lessons/building-static-sites-with-jekyll-github-pages)
+["Why Blog?"](https://blog.hubspot.com/marketing/the-benefits-of-business-blogging-ht) 
 
-**Sample Website Pack** (no need to read these thoroughly; poke around the site and get a sense of the author's persona and topics, and read a post or two): [Craig Canapari, MD](https://drcraigcanapari.com/), [Food Politics](https://www.foodpolitics.com/), [Food and Farm Discussion Lab](http://fafdl.org/).
+["How to Start a Science Blog"](https://www.theguardian.com/science/2014/apr/17/science-blog-wellcome-trust-writing-prize)
+
+**Sample Website Pack** (no need to read every post; poke around the site and get a sense of the author's persona and topics, and read a post or two): [Craig Canapari, MD](https://drcraigcanapari.com/), [Food Politics](https://www.foodpolitics.com/), [Food and Farm Discussion Lab](http://fafdl.org/).
+
+["How to Get Important People to Respond to Your Emails"](https://qz.com/97281/the-secrets-to-getting-important-people-to-email-you-back/)
 
 ["Paramedic Method"](https://owl.purdue.edu/owl/general_writing/academic_writing/paramedic_method.html)
 
@@ -37,6 +41,14 @@
 [Markdown Tables](https://www.tablesgenerator.com/markdown_tables)
 
 [More information on tables in GitHub Flavored Markdown](https://help.github.com/articles/organizing-information-with-tables/)
+
+[Amanda Visconti, “Building a Static Website with Jekyll and GitHub Pages”](https://programminghistorian.org/en/lessons/building-static-sites-with-jekyll-github-pages)
+
+[Markdown in Wordpress](https://en.support.wordpress.com/markdown/)
+
+[YouTube GitHub Pages Guide](https://youtu.be/BA_c3bGQXlQ)
+
+[Images in GitHub Pages](http://sgeos.github.io/github/jekyll/2016/08/30/adding_images_and_downloads_to_a_github_pages_jekyll_blog.html)  - also make sure to avoid spaces or special characters in file names
 
 ## For Use in Class
 

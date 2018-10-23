@@ -32,33 +32,33 @@ Tuesday, 9.27: [“A Rule of Life for Redemptive Entrepreneurs.”](https://rule
 
 WEEK SIX
 
-Tuesday, 10.2: [Healy, ch. 2.](http://plain-text.co/keep-a-record.html)
+Tuesday, 10.2: [Healy, ch. 2.](http://plain-text.co/keep-a-record.html). Review Assignment Two.
 
-Thursday, 10.4: [Amanda Visconti, “Building a Static Website with Jekyll and GitHub Pages”](https://programminghistorian.org/en/lessons/building-static-sites-with-jekyll-github-pages).
+Thursday, 10.4: ["Why Blog?"](https://blog.hubspot.com/marketing/the-benefits-of-business-blogging-ht) and ["How to Start a Science Blog."](https://www.theguardian.com/science/2014/apr/17/science-blog-wellcome-trust-writing-prize)
 
 WEEK SEVEN
 
-Tuesday, 10.9: Alley, ch. 4-5.
+Tuesday, 10.9: Sample website pack.  
 
-Thursday, 10.11: Alley, ch. 6.
+Thursday, 10.11: Wendell Berry, "Tilling Word and Land." (PDF in our repo.) **Topic commitment for website.**
 
 WEEK EIGHT
 
-Tuesday, 10.16: Alley, ch. 7-8.
+Tuesday, 10.16: Alley, ch. 4-5. 
 
-Thursday, 10.18: Alley, ch. 9.
+Thursday, 10.18: Alley, ch. 6-7. **Blog post one due.**
 
 WEEK NINE
 
-Tuesday, 10.23: Alley, ch. 13.
+Tuesday, 10.23: Alley, ch. 8-9.
 
-Thursday, 10.25: Sample website pack.
+Thursday, 10.25: Alley, ch. 12 and ["How to Get Important People to Respond to Your Emails"](https://qz.com/97281/the-secrets-to-getting-important-people-to-email-you-back/). **Blog post two due.**
 
 WEEK TEN
 
-Tuesday, 10.30: Website draft due.
+Tuesday, 10.30: Peer review. **Full website draft due.**
 
-Thursday, 11.1: [“Paramedic Method.”](https://owl.purdue.edu/owl/general_writing/academic_writing/paramedic_method.html) **Website due.**
+Thursday, 11.1: [“Paramedic Method”](https://owl.purdue.edu/owl/general_writing/academic_writing/paramedic_method.html). **Website due.**
 
 WEEK ELEVEN
 
