@@ -48,6 +48,8 @@
 
 [YouTube GitHub Pages Guide](https://youtu.be/BA_c3bGQXlQ)
 
+[Images in GitHub Pages](http://sgeos.github.io/github/jekyll/2016/08/30/adding_images_and_downloads_to_a_github_pages_jekyll_blog.html)  - also make sure to avoid spaces or special characters in file names
+
 ## For Use in Class
 
 [For September 4](https://link.springer.com/content/pdf/10.1007%2Fs13593-013-0181-6.pdf)
