@@ -6,4 +6,5 @@
 * [Abby](https://abbynormalinvestigations.wordpress.com/)
 * [Erin Ingalsbe](https://ronimalonifloatsyourgoat.wordpress.com/)
 * [Anna](https://whippoorwillhill479610187.wordpress.com/) 
-* [Lakin](needtoknowprobiotics.wordpress.com)
+
+* [Deidre](https://deidre1012.github.io/01-Addatives-in-Foods)
