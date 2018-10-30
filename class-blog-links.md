@@ -10,6 +10,6 @@
 * [Lakin](needtoknowprobiotics.wordpress.com)
 * [Deidre](https://deidre1012.github.io/01-Addatives-in-Foods)
 * [Robert](https://fisharecoolman.wordpress.com)
-* [Paige](https://allthingsclydesdale.wordpress.com)
 * [Braden Farris](http://birdhuntingnarratives.video.blog)
 * [Skyler](https://bigtineconsulting.wordpress.com/)
+* [Lindsey](https://whatsthedealwithdiets.wordpress.com/)
