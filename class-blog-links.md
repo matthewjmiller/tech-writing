@@ -1,7 +1,7 @@
 * [Turning Pages, Turning Heads by Matt](https://turningpagesturningheads.wordpress.com/)
 * [Wyatt](https://github.com/wdeaton/Gmos-Blog/blob/master/README.md)
 * [Michaela Ferguson](https://hyklife.wordpress.com/)
-* [Nadia](https://nadiaprinerobson.github.io/AccuracyinAgriculture/)
+* [Nadia](https://unconventionalagriculture.home.blog/)
 * [Jessica](https://dairygal.wordpress.com)
 * [Abby](https://abbynormalinvestigations.wordpress.com/)
 * [Erin Ingalsbe](https://ronimalonifloatsyourgoat.wordpress.com/)
