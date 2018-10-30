@@ -13,3 +13,4 @@
 * [Braden Farris](http://birdhuntingnarratives.video.blog)
 * [Skyler](https://bigtineconsulting.wordpress.com/)
 * [Lindsey](https://whatsthedealwithdiets.wordpress.com/)
+* [Colton](fishinginmissouriblog.wordpress.com)
