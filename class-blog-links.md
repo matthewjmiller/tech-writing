@@ -15,5 +15,6 @@
 * [Skyler](https://bigtineconsulting.wordpress.com/)
 * [Lindsey](https://whatsthedealwithdiets.wordpress.com/)
 * [Colton](https://fishinginmissouriblog.wordpress.com/)
+* [Kendra](https://kendrasmithtechwriting.github.io/01-My-Blog-Assignment-2-/) 
 * [Paige](http://allthingsclydesdale.wordpress.com)
 * [Andrew](https://coffee877483783.wordpress.com/)
