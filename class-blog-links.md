@@ -18,3 +18,4 @@
 * [Kendra](https://kendrasmithtechwriting.github.io/01-My-Blog-Assignment-2-/) 
 * [Paige](http://allthingsclydesdale.wordpress.com)
 * [Andrew](https://coffee877483783.wordpress.com/)
+* [Autumn](https://wordpress.com/view/theinspirationpool.home.blog)
