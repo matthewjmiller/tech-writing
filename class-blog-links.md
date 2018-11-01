@@ -1,5 +1,5 @@
 * [Turning Pages, Turning Heads by Matt](https://turningpagesturningheads.wordpress.com/)
-* [Wyatt](https://github.com/wdeaton/Gmos-Blog/blob/master/README.md)
+* [Wyatt](https://wdeaton.github.io/GMO-Introduction/)
 * [Michaela Ferguson](https://hyklife.wordpress.com/)
 * [Nadia](https://unconventionalagriculture.home.blog/)
 * [Jessica](https://dairygal.wordpress.com)
@@ -14,4 +14,4 @@
 * [Braden Farris](http://birdhuntingnarratives.video.blog)
 * [Skyler](https://bigtineconsulting.wordpress.com/)
 * [Lindsey](https://whatsthedealwithdiets.wordpress.com/)
-* [Colton](https://fishinginmissouriblog.wordpress.com/)
+* [Colton](fishinginmissouriblog.wordpress.com)
