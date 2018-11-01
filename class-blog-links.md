@@ -9,7 +9,7 @@
 * [Chania](https://chaniahoffman.github.io/01-My-Blog/)
 * [Lakin](http://needtoknowprobiotics.wordpress.com)
 * [Deidre](https://foodprocessblog.wordpress.com/)
-* [Robert](https://fisharecoolman.wordpress.com)
+* [Robert](https://graves09220091581.wordpress.com/)
 * [Justin](https://wordpress.com/view/ranchesswmissouri.home.blog)
 * [Braden Farris](http://birdhuntingnarratives.video.blog)
 * [Skyler](https://bigtineconsulting.wordpress.com/)
