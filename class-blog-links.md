@@ -15,4 +15,5 @@
 * [Skyler](https://bigtineconsulting.wordpress.com/)
 * [Lindsey](https://whatsthedealwithdiets.wordpress.com/)
 * [Colton](https://fishinginmissouriblog.wordpress.com/)
-* [Paige] (allthingsclydesdale.wordpress.com)
+* [Paige](http://allthingsclydesdale.wordpress.com)
+* [Andrew](https://coffee877483783.wordpress.com/)
