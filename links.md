@@ -26,11 +26,11 @@
 
 ### Unit Three
 
+**Sample Document Pack 2** (look over these for structure and style rather than reading exhaustively): [Bunge white paper](https://drive.google.com/file/d/14ijQdufXEwb5N4Rj3iOwS6FPi0_sWgMa/view?usp=sharing), [Delavau white paper](https://drive.google.com/file/d/1ZzovefeMN84ZPaRpCCplcdC_L68_myWz/view?usp=sharing), [Lombard white paper](https://www.lombard.co.uk/content/dam/lombard_co_uk/PDFs/agriculture-white-paper-2015.pdf), and [Rodale white paper](http://rodaleinstitute.org/assets/WhitePaper.pdf).
+
 [*Butterick's Practical Typography*](https://practicaltypography.com)
 
 [Chanpory, "Clean Up Your Mess: a Guide to Visual Design for Everyone"](http://www.visualmess.com/)
-
-**Sample Document Pack 2**: [Bunge white paper](https://drive.google.com/file/d/14ijQdufXEwb5N4Rj3iOwS6FPi0_sWgMa/view?usp=sharing) and [Delavau white paper](https://drive.google.com/file/d/1ZzovefeMN84ZPaRpCCplcdC_L68_myWz/view?usp=sharing). 
 
 ## Supplemental Resources
 
