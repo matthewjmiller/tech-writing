@@ -1,5 +1,7 @@
 # Research Resources
 
+[Good suggestions on research methods](https://web.archive.org/web/20110515061849/http://weblogs.swarthmore.edu/burke/2011/05/09/how-i-talk-about-searching-discovery-and-research-in-courses)
+
 ## Reference Works
 
 [PowerThesaurus](https://www.powerthesaurus.org)
