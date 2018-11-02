@@ -70,7 +70,7 @@ WEEK TWELVE
 
 Tuesday, 11.13: *Butterick’s Practical Typography*, [“Why Typography Matters,”](https://practicaltypography.com/why-typography-matters.html) [“Type Composition.”](https://practicaltypography.com/type-composition.html), [“Text Formatting,”](https://practicaltypography.com/text-formatting.html) [“Page Layout.”](https://practicaltypography.com/page-layout.html)
 
-Thursday, 11.15: Alley, chapters. 10-11.
+Thursday, 11.15: Alley, chapters. 10-11. **White paper topic commitment**
 
 WEEK THIRTEEN
 
@@ -90,7 +90,7 @@ Thursday, 12.6: TBD.
 
 WEEK SIXTEEN
 
-Tuesday, 12.11: Peer review; white paper draft due.
+Tuesday, 12.11: Peer review; **white paper draft due.**
 
 Thursday, 12.13: Workshop. 
 
