@@ -62,15 +62,15 @@ Thursday, 11.1: [“Paramedic Method”](https://owl.purdue.edu/owl/general_writ
 
 WEEK ELEVEN
 
-Tuesday, 11.6: Alley, ch. 10.
+Tuesday, 11.6: Sample document pack 2. Assignment three. 
 
-Thursday, 11.8: Alley, ch. 11.
+Thursday, 11.8: Review list of research resources; bring one journal article or data source to class for workshop.
 
 WEEK TWELVE
 
-Tuesday, 11.13: *Butterick’s Practical Typography*, [“Why Typography Matters,”](https://practicaltypography.com/why-typography-matters.html) [“Type Composition.”](https://practicaltypography.com/type-composition.html)
+Tuesday, 11.13: *Butterick’s Practical Typography*, [“Why Typography Matters,”](https://practicaltypography.com/why-typography-matters.html) [“Type Composition.”](https://practicaltypography.com/type-composition.html), [“Text Formatting,”](https://practicaltypography.com/text-formatting.html) [“Page Layout.”](https://practicaltypography.com/page-layout.html)
 
-Thursday, 11.15: *Butterick’s Practical Typography*, [“Text Formatting,”](https://practicaltypography.com/text-formatting.html) [“Page Layout.”](https://practicaltypography.com/page-layout.html)
+Thursday, 11.15: Alley, chapters. 10-11.
 
 WEEK THIRTEEN
 
@@ -86,7 +86,7 @@ WEEK FIFTEEN
 
 Tuesday, 12.4: Alley, ch. 12 and 17.
 
-Thursday, 12.6: Sample document pack 2.
+Thursday, 12.6: TBD.
 
 WEEK SIXTEEN
 
@@ -94,4 +94,4 @@ Tuesday, 12.11: Peer review; white paper draft due.
 
 Thursday, 12.13: Workshop. 
 
-**White paper due: TBD.**
+**White paper due: Monday, 12.17.**
