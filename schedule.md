@@ -70,7 +70,7 @@ WEEK TWELVE
 
 Tuesday, 11.13: *Butterick’s Practical Typography*, [“Why Typography Matters,”](https://practicaltypography.com/why-typography-matters.html) [“Type Composition.”](https://practicaltypography.com/type-composition.html), [“Text Formatting,”](https://practicaltypography.com/text-formatting.html) [“Page Layout.”](https://practicaltypography.com/page-layout.html)
 
-Thursday, 11.15: Alley, chapters. 10-11. **White paper topic commitment**
+Thursday, 11.15: Alley, chapters. 10-11. **Research abstract due.**
 
 WEEK THIRTEEN
 
@@ -80,7 +80,7 @@ WEEK FOURTEEN
 
 Tuesday, 11.27: [Chanpory, “Clean Up Your Mess.”](http://www.visualmess.com/)
 
-Thursday, 11.29: Alley, ch. 15.
+Thursday, 11.29: Alley, ch. 15. **Topic commitment due.**
 
 WEEK FIFTEEN
 
