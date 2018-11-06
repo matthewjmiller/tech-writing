@@ -36,7 +36,7 @@ The final document should be produced in an appropriate typesetting program such
 
 ## Rubric
 
-The following rubric will be used to assess your grade. The final project is worth 200 points out of a total of 1,000 for the course.
+The following rubric will be used to assess your grade. The final project is worth 400 points out of a total of 1,000 for the course.
 
 A. Outstanding projects demonstrate a careful, detailed understanding of your field and your audience. They draw upon strong, authoritative research and communicate their findings in accessible but specific language and attractive illustrations. They are logically structured and provide a clear call to action. Mechanical/grammatical errors are minimal to nonexistent.
 
