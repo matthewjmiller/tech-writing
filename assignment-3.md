@@ -24,6 +24,8 @@ The next stage in the project will be our usual one-paragraph **topic commitment
 
 The final document should be produced in an appropriate typesetting program such as Microsoft Word or Adobe InDesign. To convert from Markdown to one of these formats, either use the desktop tool [Pandoc](http://www.pandoc.org/) or the browser-based tool [Heroku](https://word-to-markdown.herokuapp.com/). It should be submitted **as a PDF** to preserve formatting and images. You can export a PDF from within Microsoft Word by using either the "Export" or the "Save As" function (depending on your version) under the "File" menu.
 
+Add all documents to a repo entitled "White-paper" for submission.
+
 ## Deadlines
 
 **Research abstract** (in a paragraph): 11.15
