@@ -12,9 +12,9 @@
 
 ## Food and Farm Media
 
-To access my list of a couple hundred publications relevant to what we do here (consumer and industry food publications, branding/marketing industry, etc.) [download the OPML file here](https://www.dropbox.com/s/p7qsm0iabg573kh/feedly-ae267cee-07e1-46b3-b0f6-7eb6ebf3ca63-2017-02-06.opml?dl=0) and upload it into your RSS reader of choice. I use [Feedly](http://feedly.com/i/latest).
+To access my list of a couple hundred publications relevant to what we do here (consumer and industry food publications, branding/marketing industry, etc.) [download the OPML file here](https://www.dropbox.com/s/p7qsm0iabg573kh/feedly-ae267cee-07e1-46b3-b0f6-7eb6ebf3ca63-2017-02-06.opml?dl=0) and upload it into your RSS reader of choice. I like [Feedly](http://feedly.com/) and [Inoreader](http://inoreader.com).
 
-Some relevant Twitter lists I have compiled: on [coffee](https://twitter.com/matt_j_miller/lists/coffee), [food](https://twitter.com/matt_j_miller/lists/food), and [environment](https://twitter.com/matt_j_miller/lists/green).
+Some relevant Twitter lists I have compiled: on [coffee](https://twitter.com/matt_j_miller/lists/coffee), [food](https://twitter.com/matt_j_miller/lists/food), and [environment](https://twitter.com/matt_j_miller/lists/green). Twitter lists can be a great way to find out the current state of discussion on a topic, as many publications and scholars publicize their work through that medium.
 
 ## Databases
 
