@@ -78,6 +78,8 @@ Some relevant Twitter lists I have compiled: on [coffee](https://twitter.com/mat
 
 [Geological data](https://www.usgs.gov/products/data-and-tools/gis-data)
 
+[US Soil Survey](https://www.nrcs.usda.gov/wps/portal/nrcs/soilsurvey/soils/survey/state/)
+
 ## Data tools
 
 [Web Scraper](http://webscraper.io)
