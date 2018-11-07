@@ -76,6 +76,8 @@ Some relevant Twitter lists I have compiled: on [coffee](https://twitter.com/mat
 
 [Common Crawl](http://commoncrawl.org)
 
+[Geological data](https://www.usgs.gov/products/data-and-tools/gis-data)
+
 ## Data tools
 
 [Web Scraper](http://webscraper.io)
