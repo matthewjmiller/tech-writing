@@ -68,7 +68,7 @@ Thursday, 11.8: Review list of research resources; bring one journal article or 
 
 WEEK TWELVE
 
-Tuesday, 11.13: *Butterick’s Practical Typography*, [“Why Typography Matters,”](https://practicaltypography.com/why-typography-matters.html) [“Type Composition.”](https://practicaltypography.com/type-composition.html), [“Text Formatting,”](https://practicaltypography.com/text-formatting.html) [“Page Layout.”](https://practicaltypography.com/page-layout.html)
+Tuesday, 11.13: *Butterick’s Practical Typography*, [“Why Typography Matters,”](https://practicaltypography.com/why-typography-matters.html) [“Type Composition.”](https://practicaltypography.com/type-composition.html), [“Text Formatting,”](https://practicaltypography.com/text-formatting.html) [“Page Layout.”](https://practicaltypography.com/page-layout.html) **Note that you'll need to click through and read chapter sections within each link.**
 
 Thursday, 11.15: Alley, chapters. 10-11. **Research abstract due.**
 
