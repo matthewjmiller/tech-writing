@@ -86,7 +86,7 @@ WEEK FIFTEEN
 
 Tuesday, 12.4: Alley, ch. 17.
 
-Thursday, 12.6: READING ON REVISION TBD
+Thursday, 12.6: read "harris-rewriting.pdf" from our GitHub repo.
 
 WEEK SIXTEEN
 
