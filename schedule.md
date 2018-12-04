@@ -84,9 +84,9 @@ Thursday, 11.29: Alley, ch. 15. **Topic commitment due.**
 
 WEEK FIFTEEN
 
-Tuesday, 12.4: Alley, ch. 12 and 17.
+Tuesday, 12.4: Alley, ch. 17.
 
-Thursday, 12.6: TBD.
+Thursday, 12.6: READING ON REVISION TBD
 
 WEEK SIXTEEN
 
